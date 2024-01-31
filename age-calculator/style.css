@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(222, 219, 219);
+    font-family: Helvetica, sans-serif;
+}
+
+#age-calc-container {
+    background-color: white;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgb(0, 0, 0, 0.2);
+}
+
+h1 {
+    margin-top: 0;
+    text-align: center;
+}
+
+#form {
+    align-items: center;
+}
+
+button {
+    background-color: rgb(16, 16, 199);
+}
